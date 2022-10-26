@@ -3,7 +3,7 @@
 
 ### menjalankan python dari IDLE
 ![Gambar 1](Screenshots/ss1.png.png)
-![Gambar2](Screenshots/Screenshot (20).png)
+![Gambar2](Screenshots/ss2.png)
 ![Gambar3](Screenshots/Screenshot (21).png)
 ![Gambar4](Screenshots/Screenshot (22).png)
 ![Gambar5](Screenshots/Screenshot (23).png)
