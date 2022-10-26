@@ -2,4 +2,4 @@
 ## Belajar Python
 
 ### menjalankan python dari IDLE
-![img]Screenshots/ss1.png
+![Gambar 1](Screenshots/ss1.png.png)
